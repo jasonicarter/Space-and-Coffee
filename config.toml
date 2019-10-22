@@ -1,6 +1,6 @@
 baseurl = "/"
-title = "Black & Light"
-author = "David Hamp-Gonsalves"
+title = "S&C"
+author = "Jason I. Carter"
 canonifyurls = true
 languagecode = "en"
 theme = "black-and-light"
@@ -9,16 +9,12 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 [params]
-  sitename = "Black & Light"
+  sitename = "Space and Coffee"
   disableWebFonts = false
 
 [[menu.main]]
     name = "About"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    url  = "../about/"
 [[menu.main]]
-    name = "Projects"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
-[[menu.main]]
-    name = "Resume"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
-
+    name = "Contact"
+    url  = "../contact/"
