@@ -11,6 +11,7 @@ pygmentscodefences  = true
 [params]
   sitename = "Space and Coffee"
   disableWebFonts = false
+  googleAnalytics = "UA-43596308-6"
 
 [[menu.main]]
     name = "About"
