@@ -8,10 +8,11 @@ theme = "black-and-light"
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
+googleAnalytics = "UA-43596308-6"
+
 [params]
   sitename = "Space and Coffee"
   disableWebFonts = false
-  googleAnalytics = "UA-43596308-6"
 
 [[menu.main]]
     name = "About"
