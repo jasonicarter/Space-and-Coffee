@@ -19,7 +19,7 @@ canonifyURLs = true
   disableWebFonts = false
 
 [params.adsense]
-  client = "ca-pub-12345"
+  client = "ca-pub-3168901090832308"
   inArticleSlot = "12345"
 
 [[menu.main]]

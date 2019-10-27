@@ -11,6 +11,8 @@ Yes, this is a book review site but sometimes I completely forget to review book
 I do however, have some favourite, and not so favourite, books I'd like to share with you.
 As of 2019 (late-ish) these are the books I've read (up to and including in 2019) that made it to my *all-time greatest* list.
 
+<!--adsense-->
+
 ## The List
 
 In no particular order...
