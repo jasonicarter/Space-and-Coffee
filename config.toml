@@ -18,6 +18,10 @@ canonifyURLs = true
   sitename = "Space and Coffee"
   disableWebFonts = false
 
+[params.adsense]
+  client = "ca-pub-12345"
+  inArticleSlot = "12345"
+
 [[menu.main]]
     name = "About"
     url  = "/about/"

@@ -10,7 +10,7 @@
   {{ end }}
 
   <div class="entry-content">
-    {{ .Content }}
+    {{ replace .Content "<!--adsense-->" (partial "adsense_inarticle.html" .) | safeHTML }}
   </div>
 
   <div id=links>
