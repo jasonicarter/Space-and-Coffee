@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "S&C"
+title = "Space and Coffee"
 author = "Jason I. Carter"
 canonifyurls = true
 languagecode = "en"
@@ -10,6 +10,9 @@ pygmentscodefences  = true
 
 googleAnalytics = "UA-43596308-6"
 disqusShortname = "space-and-coffee"
+
+enableRobotsTXT = true
+canonifyURLs = true
 
 [params]
   sitename = "Space and Coffee"

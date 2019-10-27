@@ -1,7 +1,8 @@
 ---
 title: "My Best Sci-Fi Booklist"
 date: 2019-10-22
-categories: [scifi]
+tags: [Best of list, Classic]
+description: "My list of best sci-fi books from The Forever War to The Expanse and everything in between"
 ---
 
 ## Books I've Read but not Reviewed
