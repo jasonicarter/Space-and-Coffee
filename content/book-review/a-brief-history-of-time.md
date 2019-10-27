@@ -3,7 +3,7 @@ title: "A Brief History of Time"
 date: 2019-10-09
 tags: [Space]
 description: "Book review - Wrapping your mind around space-time, the big bang, the expanding universe and everything inbetween is a pleasure in this semi-easy read if you're up to the challenge of challenging your very concept of what you preseve as reality."
-draft: false
+draft: true
 ---
 
 
