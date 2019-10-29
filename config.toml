@@ -17,6 +17,7 @@ canonifyURLs = true
 [params]
   sitename = "Space and Coffee"
   disableWebFonts = false
+  description = "Visit Space and Coffee for the best scifi book reviews and scifi TV reviews (like The Expanse) on the internet"
 
 [params.adsense]
   client = "ca-pub-3168901090832308"
